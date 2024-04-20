@@ -39,7 +39,7 @@ function DoctorProfile() {
         <ProfileDescription>
           <p>
             Hello I am Dr. Bruce Willis a Gynaecologist in Sanjivni Hospital
-            Surat. love to work with all my hospital staff and seniour doctors.
+            Surat. love to work with all my hospital staff and senior doctors.
             Completed my graduation in Gynaecologist Medicine from the{" "}
           </p>
           <ReadMoreLink>
@@ -590,20 +590,20 @@ const reviews = [
   {
     id: 1,
     name: "Alicent Hightower",
-    consultedFor: "Consulted for Skin care",
+    consultedFor: "Skin care",
     date: "20 January 2023",
     rating: 5,
     reviewText:
-      "Might be bit early to confirm but yes I can see noticeable difference in my hairfall. will write again after using it for longer periods",
+      "Might be a bit early to confirm but yes I can see noticeable difference in my hairfall. will write again after using it for longer periods",
   },
   {
     id: 2,
     name: "Alicent Hightower",
-    consultedFor: "Consulted for Pregnancy",
+    consultedFor: "Pregnancy",
     date: "20 January 2023",
     rating: 5,
     reviewText:
-      "Might be bit early to confirm but yes I can see noticeable difference. will write again after using it for longer periods",
+      "Might be a bit early to confirm but yes I can see noticeable difference. will write again after using it for longer periods",
   },
 ];
 const StarRating = ({ rating }) => {
